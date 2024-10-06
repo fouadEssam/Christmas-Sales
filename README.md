@@ -89,5 +89,5 @@ You can check the interactive dashboard from [here](https://www.linkedin.com/fee
 - **Deeper Analysis**: Conduct more detailed analysis on customer behavior and preferences.
 - **Predictive Modeling**: Use machine learning models to predict future sales trends.
 - **Enhanced Visualizations**: Create more interactive and detailed visualizations.
-- **Customer Feedback**: Incorporate customer feedback to improve product offerings and services.
+
 
